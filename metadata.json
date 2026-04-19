@@ -1,0 +1,8 @@
+{
+  "name": "AutoClip",
+  "description": "A full-stack video tool for automatic scene detection, clip exporting, and Frame Explorer for high-quality frame capture.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
